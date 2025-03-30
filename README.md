@@ -1,4 +1,4 @@
-# Florida Man API
+# florida man API
 
 A lightweight Node.js API built with Express that generates a random "Florida Man" news headline on each request. 
 
